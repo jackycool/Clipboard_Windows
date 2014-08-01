@@ -1,0 +1,6 @@
+c:\users\jacky\documents\visual studio 2012\Projects\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe.config
+c:\users\jacky\documents\visual studio 2012\Projects\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe
+c:\users\jacky\documents\visual studio 2012\Projects\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+c:\users\jacky\documents\visual studio 2012\Projects\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.exe
+c:\users\jacky\documents\visual studio 2012\Projects\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\Jacky\Documents\Visual Studio 2012\Projects\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
